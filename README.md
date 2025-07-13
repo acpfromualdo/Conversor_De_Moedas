@@ -37,5 +37,5 @@ Projeto desenvolvido para o curso **ONE | TECH Foundation – Especialização B
 ---
 
 ## 🖼️ Screenshot do programa
-![Tela do programa](screenshot-conversor.png)
+![Tela do programa](screenshot-conversor.png.png)
  

@@ -1,8 +1,8 @@
 package models;
 
 public class DuplaDeMoedas {
-    private String moedaBase;
-    private String moedaDestino;
+    private final String moedaBase;
+    private final String moedaDestino;
 
     public DuplaDeMoedas(String moedaBase, String moedaDestino) {
         this.moedaBase = moedaBase;

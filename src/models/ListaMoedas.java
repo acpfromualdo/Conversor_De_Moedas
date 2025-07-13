@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ListaMoedas {
-    private Map<Integer, DuplaDeMoedas> opcoes = new HashMap<>();
+    private final Map<Integer, DuplaDeMoedas> opcoes = new HashMap<>();
 
     public ListaMoedas() {
         opcoes.put(1, new DuplaDeMoedas("USD", "BRL"));

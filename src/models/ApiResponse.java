@@ -1,7 +1,7 @@
 package models;
 
 public class ApiResponse {
-    private double valorConvertido;
+    private final double valorConvertido;
 
     public ApiResponse(double valorConvertido) {
         this.valorConvertido = valorConvertido;

@@ -33,3 +33,9 @@ Projeto desenvolvido para o curso **ONE | TECH Foundation – Especialização B
    ```bash
    git clone https://github.com/acpfromualdo/Conversor_De_Moedas.git
    cd Conversor_De_Moedas
+
+---
+
+## 🖼️ Screenshot do programa
+![Tela do programa](screenshot-conversor.png)
+ 
